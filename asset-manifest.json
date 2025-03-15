@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_task-delightcore/static/css/main.f40468a3.css",
+    "main.js": "/test_task-delightcore/static/js/main.69949a94.js",
+    "index.html": "/test_task-delightcore/index.html",
+    "main.f40468a3.css.map": "/test_task-delightcore/static/css/main.f40468a3.css.map",
+    "main.69949a94.js.map": "/test_task-delightcore/static/js/main.69949a94.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f40468a3.css",
+    "static/js/main.69949a94.js"
+  ]
+}
